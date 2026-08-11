@@ -1,1 +1,2 @@
-# KSP-Crafts
+# mindctrl's KSP Craft Collection
+
