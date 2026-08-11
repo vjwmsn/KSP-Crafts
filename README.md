@@ -10,7 +10,7 @@
 ## Kerman Engineering SLV-H07 "Deliverance" | [View Folder](https://github.com/vjwmsn/KSP-Crafts/tree/main/SSV-CXX "Wayfarer") | [Download without flags](https://github.com/vjwmsn/KSP-Crafts/raw/main/SLV-H07%20"Deliverance"/Ships/SPH/ZZZ%20SLV-HO7%20Deliverance.craft)
 <img src="Deliverance.jpg" width="700" alt="SLV Craft">
 
-## Kerman Engineering F-12 "Talon" | [View Folder](https://github.com/vjwmsn/KSP-Crafts/tree/main/F-12 "Talon") | [Download without flags](https://github.com/vjwmsn/KSP-Crafts/raw/main/F-12%20"Talon"/Ships/SPH/AA%20F-12%20Talon.craft)
+## Kerman Engineering F-12 "Talon" | [View Folder](https://github.com/vjwmsn/KSP-Crafts/tree/main/F-12 "Talon") | [Download without flags](https://github.com/vjwmsn/KSP-Crafts/raw/main/F-12%20"Talon"/AA%20F-12%20Talon.craft)
 <img src="Talon.jpg" width="700" alt="F-12 Craft">
 
 # VAB / Rockets
