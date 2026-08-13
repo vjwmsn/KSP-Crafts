@@ -5,7 +5,7 @@
 
 # SPH / Spaceplanes, Planes, Landers, Rovers, etc.
 ## Kerman Engineering SSV-CXX "Wayfarer" | [View Folder](https://github.com/vjwmsn/KSP-Crafts/tree/main/SSV-CXX%20"Wayfarer") | [Download without flags](https://github.com/vjwmsn/KSP-Crafts/raw/main/SSV-CXX%20"Wayfarer"/Ships/SPH/Kerman%20Engineering%20SSV-CXX%20_Wayfarer_.craft)
-<img src="SSV-CXX.jpg" width="700" alt="SSV-CXX Craft">
+<img src="SSV-CXX-fix.jpg" width="700" alt="SSV-CXX Craft">
 
 ## Kerman Engineering SLV-H07 "Deliverance" | [View Folder](https://github.com/vjwmsn/KSP-Crafts/tree/main/SLV-H07%20"Deliverance") | [Download without flags](https://github.com/vjwmsn/KSP-Crafts/raw/main/SLV-H07%20"Deliverance"/Ships/SPH/ZZZ%20SLV-HO7%20Deliverance.craft)
 <img src="Deliverance.jpg" width="700" alt="SLV Craft">
